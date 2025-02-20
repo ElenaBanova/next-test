@@ -1,0 +1,25 @@
+.nav {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    font-size: 20px;
+}
+
+.logo {
+    border-radius: 20px;
+}
+
+div, .cl {
+    background: none;
+}
+
+.cl {
+    color: blanchedalmond;
+}
+
+#click-menu {
+    width: 160px;
+    text-align: center;
+}
+

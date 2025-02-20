@@ -1,0 +1,16 @@
+.recipe-info-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.tag {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.meal {
+    display: flex;
+}

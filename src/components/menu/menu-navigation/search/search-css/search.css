@@ -1,0 +1,22 @@
+.search {
+    max-height: 100px;
+    overflow-y: auto;
+    position: absolute;
+    background-color: rgba(255, 235, 205, 0.6);
+}
+
+.search-name {
+    background: none;
+    color: blanchedalmond;
+    font-size: 30px;
+    margin: 0;
+}
+
+.menu-input {
+    height: 22px;
+    font-size: 18px;
+}
+
+.search-window {
+    background: none;
+}

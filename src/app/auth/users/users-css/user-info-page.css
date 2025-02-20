@@ -1,0 +1,26 @@
+.user-image {
+    margin-top: 50px;
+}
+
+.user-info {
+    display: flex;
+    justify-content: center;
+}
+
+.user-div {
+    display: flex;
+    gap: 400px;
+}
+
+.user-recipes {
+    margin-top: 50px;
+}
+
+.recipesId-link {
+    font-size: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 5px;
+}

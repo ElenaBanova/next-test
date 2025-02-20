@@ -1,0 +1,10 @@
+.recipes-tag-list {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+* {
+    color: black;
+    font-size: 25px;
+}

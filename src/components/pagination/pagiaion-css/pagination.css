@@ -1,0 +1,23 @@
+.button-pag {
+    height: 40px;
+    width: 140px;
+    background: none;
+    color: rgba(2, 2, 2, 0.8);
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid rgba(2, 2, 2, 0.8);
+    border-radius: 10px;
+    animation-delay: 5s;
+    transition: 1s;
+}
+
+.button-pag:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.pagination {
+display: flex;
+    justify-content: center;
+    gap: 50px;
+}
