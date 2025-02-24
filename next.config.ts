@@ -7,8 +7,9 @@ const nextConfig: NextConfig = {
                 protocol: 'https',
                 hostname: "dummyjson.com"
             }]
-    }
+    },
     /* config options here */
 };
+
 
 export default nextConfig;

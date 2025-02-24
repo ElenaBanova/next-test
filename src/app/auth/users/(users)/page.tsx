@@ -5,8 +5,6 @@ import {SearchParams} from "next/dist/server/request/search-params";
 import Link from "next/link";
 
 
-// export const revalidate = 2;
-
 const UsersPage = async ({searchParams}: { searchParams: Promise<SearchParams> }) => {
         const params = await searchParams;
         const page = params.page || '1';

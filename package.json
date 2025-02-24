@@ -13,16 +13,13 @@
     "axios": "^1.7.9",
     "cookies-next": "^5.1.0",
     "joi": "^17.13.3",
-    "jsonwebtoken": "^9.0.2",
     "next": "15.1.7",
-    "next-auth": "^4.24.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router": "^7.1.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/jsonwebtoken": "^9.0.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

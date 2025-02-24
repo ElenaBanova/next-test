@@ -13,7 +13,11 @@ axiosInstance.interceptors.request.use(async (reqObj) => {
     const token = await getCookies('accessToken');
     if (reqObj.method?.toUpperCase() === 'GET') {
         reqObj.headers.Authorization = 'Bearer ' + token;
+
     }
-    return reqObj
+    return reqObj;
 });
+
+
+
 
